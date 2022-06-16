@@ -1,0 +1,8 @@
+/* Header */
+
+div {
+  color: white;
+  background: red;
+  text-align: center;
+  font: bold 32px 'Times New Roman', serif;
+}
