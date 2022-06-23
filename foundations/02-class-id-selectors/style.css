@@ -1,11 +1,11 @@
 /* Odd */
 
-.background {
+.odd {
   background-color: rgb(243, 76, 179);
   font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
 
-.background.cooler {
+.cooler {
   font-size: 24px;
 }
 
