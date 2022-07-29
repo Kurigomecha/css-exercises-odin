@@ -12,6 +12,32 @@ img {
   font-weight: 900;
 }
 
+.info-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.plants-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 52px;
+}
+
+.barberry,
+.chili,
+.pepper,
+.saffron {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  text-align: center;
+  align-items: center;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
